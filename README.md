@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Nathalia Vieira
 
-- 🌱 Estudando Desenvolvimento Web Front-End
+- 🌱 Estudando back-end C#
 - 👯 Buscando experiência na área 
 - 😄 Pronouns: ela/dela
 
