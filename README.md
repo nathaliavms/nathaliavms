@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
-  src="https://images-ext-1.discordapp.net/external/75uFP0Pm9mWbcmXtlz1pHs58fxPj1xgNcuG0rHXQ-po/https/picrew.me/shareImg/org/202206/338224_2PLaW3Be.png?               width=676&height=676">  
+  src="https://discord.com/37c9408d-ed54-4131-b657-d63b8004b01a" width=676&height=676">  
 </div>
   
   ##
